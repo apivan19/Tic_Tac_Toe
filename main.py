@@ -6,3 +6,9 @@ TODO:
 3. Get the program working amongst two iterations of a single computer - socket programming
 4. Reformat the code into OOP / classes
 """
+
+def main():
+    pass
+
+if __name__ = "__main__":
+    main()
