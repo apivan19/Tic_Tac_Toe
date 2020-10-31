@@ -5,10 +5,18 @@ TODO:
 2. implement minmax algorithm for the computer
 3. Get the program working amongst two iterations of a single computer - socket programming
 4. Reformat the code into OOP / classes
+5. Make a proper README.md
 """
 
-def main():
-    pass
+from player import Player
 
-if __name__ = "__main__":
+
+def main():
+
+    while True:
+
+        number_of_desired_players = int(input("Will this be a 1 or 2 Player Game? "))
+
+
+if __name__ == "__main__":
     main()
